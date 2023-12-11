@@ -1,0 +1,1 @@
+Olá! Para executar o projeto você pode navegar até a pasta dele em seu terminal e executar o comando "npm i", instalando a dependência do prompt-sync, então, use "node site.js" para utilizar a aplicação criada.
